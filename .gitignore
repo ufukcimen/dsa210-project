@@ -22,3 +22,6 @@ env/
 
 # Environment
 .env
+
+# Claude Code local settings
+.claude/
